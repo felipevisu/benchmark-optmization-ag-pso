@@ -1,0 +1,190 @@
+
+---------------------------------------------
+Execucao: 1
+Populacao: 100
+Individuos: 10
+Elitismo: 0.333
+Media converge: 0
+Media resultados: 50.73280533561231
+---------------------------------------------
+Execucao: 2
+Populacao: 100
+Individuos: 10
+Elitismo: 0.666
+Media converge: 0
+Media resultados: 284.884343721125
+---------------------------------------------
+Execucao: 3
+Populacao: 100
+Individuos: 10
+Elitismo: 1
+Media converge: 0
+Media resultados: 60.493284066831436
+---------------------------------------------
+Execucao: 4
+Populacao: 100
+Individuos: 25
+Elitismo: 0.333
+Media converge: 0
+Media resultados: 0.048023415103418524
+---------------------------------------------
+Execucao: 5
+Populacao: 100
+Individuos: 25
+Elitismo: 0.666
+Media converge: 0
+Media resultados: 0.15615760840222082
+---------------------------------------------
+Execucao: 6
+Populacao: 100
+Individuos: 25
+Elitismo: 1
+Media converge: 0
+Media resultados: 0.12280994497969204
+---------------------------------------------
+Execucao: 7
+Populacao: 100
+Individuos: 50
+Elitismo: 0.333
+Media converge: 0
+Media resultados: 2.5313538818002038e-09
+---------------------------------------------
+Execucao: 8
+Populacao: 100
+Individuos: 50
+Elitismo: 0.666
+Media converge: 0
+Media resultados: 0.0023859888255940197
+---------------------------------------------
+Execucao: 9
+Populacao: 100
+Individuos: 50
+Elitismo: 1
+Media converge: 0
+Media resultados: 2.234238975492927e-06
+---------------------------------------------
+Execucao: 10
+Populacao: 250
+Individuos: 10
+Elitismo: 0.333
+Media converge: 0
+Media resultados: 0.005169399931401755
+---------------------------------------------
+Execucao: 11
+Populacao: 250
+Individuos: 10
+Elitismo: 0.666
+Media converge: 0
+Media resultados: 0.0022157893890707987
+---------------------------------------------
+Execucao: 12
+Populacao: 250
+Individuos: 10
+Elitismo: 1
+Media converge: 0
+Media resultados: 0.0012648082143164618
+---------------------------------------------
+Execucao: 13
+Populacao: 250
+Individuos: 25
+Elitismo: 0.333
+Media converge: 0
+Media resultados: 2.289482150397367e-07
+---------------------------------------------
+Execucao: 14
+Populacao: 250
+Individuos: 25
+Elitismo: 0.666
+Media converge: 0
+Media resultados: 7.593464466632363e-07
+---------------------------------------------
+Execucao: 15
+Populacao: 250
+Individuos: 25
+Elitismo: 1
+Media converge: 0
+Media resultados: 3.388690210478044e-07
+---------------------------------------------
+Execucao: 16
+Populacao: 250
+Individuos: 50
+Elitismo: 0.333
+Media converge: 0
+Media resultados: 2.3511796167702284e-14
+---------------------------------------------
+Execucao: 17
+Populacao: 250
+Individuos: 50
+Elitismo: 0.666
+Media converge: 0
+Media resultados: 6.897299599818876e-16
+---------------------------------------------
+Execucao: 18
+Populacao: 250
+Individuos: 50
+Elitismo: 1
+Media converge: 0
+Media resultados: 6.095854618791674e-13
+---------------------------------------------
+Execucao: 19
+Populacao: 500
+Individuos: 10
+Elitismo: 0.333
+Media converge: 0
+Media resultados: 6.792948793958816e-11
+---------------------------------------------
+Execucao: 20
+Populacao: 500
+Individuos: 10
+Elitismo: 0.666
+Media converge: 0
+Media resultados: 6.09132634321938e-11
+---------------------------------------------
+Execucao: 21
+Populacao: 500
+Individuos: 10
+Elitismo: 1
+Media converge: 0
+Media resultados: 1.4501505072606177e-10
+---------------------------------------------
+Execucao: 22
+Populacao: 500
+Individuos: 25
+Elitismo: 0.333
+Media converge: 0
+Media resultados: 3.114043039685853e-15
+---------------------------------------------
+Execucao: 23
+Populacao: 500
+Individuos: 25
+Elitismo: 0.666
+Media converge: 0
+Media resultados: 1.4212818765296559e-16
+---------------------------------------------
+Execucao: 24
+Populacao: 500
+Individuos: 25
+Elitismo: 1
+Media converge: 0
+Media resultados: 1.7634276692351533e-16
+---------------------------------------------
+Execucao: 25
+Populacao: 500
+Individuos: 50
+Elitismo: 0.333
+Media converge: 8
+Media resultados: 1.9785406570670274e-27
+---------------------------------------------
+Execucao: 26
+Populacao: 500
+Individuos: 50
+Elitismo: 0.666
+Media converge: 6
+Media resultados: 2.866479719726023e-23
+---------------------------------------------
+Execucao: 27
+Populacao: 500
+Individuos: 50
+Elitismo: 1
+Media converge: 0
+Media resultados: 4.29235851981314e-24

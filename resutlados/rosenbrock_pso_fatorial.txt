@@ -1,0 +1,190 @@
+
+---------------------------------------------
+Execucao: 1
+Iteracoes: 100
+Particulas: 10
+w: 0.25
+Media converge: 0
+Media resultados: 16.08466040938708
+---------------------------------------------
+Execucao: 2
+Iteracoes: 100
+Particulas: 10
+w: 0.5
+Media converge: 0
+Media resultados: 2.1074355570943037
+---------------------------------------------
+Execucao: 3
+Iteracoes: 100
+Particulas: 10
+w: 0.75
+Media converge: 0
+Media resultados: 100.80782152608636
+---------------------------------------------
+Execucao: 4
+Iteracoes: 100
+Particulas: 25
+w: 0.25
+Media converge: 0
+Media resultados: 1.3675765495499086
+---------------------------------------------
+Execucao: 5
+Iteracoes: 100
+Particulas: 25
+w: 0.5
+Media converge: 0
+Media resultados: 50.228436736793704
+---------------------------------------------
+Execucao: 6
+Iteracoes: 100
+Particulas: 25
+w: 0.75
+Media converge: 0
+Media resultados: 100.25785043087225
+---------------------------------------------
+Execucao: 7
+Iteracoes: 100
+Particulas: 50
+w: 0.25
+Media converge: 0
+Media resultados: 0.09328185022751884
+---------------------------------------------
+Execucao: 8
+Iteracoes: 100
+Particulas: 50
+w: 0.5
+Media converge: 0
+Media resultados: 0.005863805992966765
+---------------------------------------------
+Execucao: 9
+Iteracoes: 100
+Particulas: 50
+w: 0.75
+Media converge: 0
+Media resultados: 0.09410750817655625
+---------------------------------------------
+Execucao: 10
+Iteracoes: 250
+Particulas: 10
+w: 0.25
+Media converge: 0
+Media resultados: 33.08741388226625
+---------------------------------------------
+Execucao: 11
+Iteracoes: 250
+Particulas: 10
+w: 0.5
+Media converge: 0
+Media resultados: 1.524474735411948
+---------------------------------------------
+Execucao: 12
+Iteracoes: 250
+Particulas: 10
+w: 0.75
+Media converge: 0
+Media resultados: 50.35406249843076
+---------------------------------------------
+Execucao: 13
+Iteracoes: 250
+Particulas: 25
+w: 0.25
+Media converge: 0
+Media resultados: 51.16188561296376
+---------------------------------------------
+Execucao: 14
+Iteracoes: 250
+Particulas: 25
+w: 0.5
+Media converge: 0
+Media resultados: 0.18697104865514586
+---------------------------------------------
+Execucao: 15
+Iteracoes: 250
+Particulas: 25
+w: 0.75
+Media converge: 0
+Media resultados: 6.42819651440871e-08
+---------------------------------------------
+Execucao: 16
+Iteracoes: 250
+Particulas: 50
+w: 0.25
+Media converge: 2
+Media resultados: 6.429772065084101e-11
+---------------------------------------------
+Execucao: 17
+Iteracoes: 250
+Particulas: 50
+w: 0.5
+Media converge: 0
+Media resultados: 0.28045655465450775
+---------------------------------------------
+Execucao: 18
+Iteracoes: 250
+Particulas: 50
+w: 0.75
+Media converge: 0
+Media resultados: 0.09348552279659847
+---------------------------------------------
+Execucao: 19
+Iteracoes: 500
+Particulas: 10
+w: 0.25
+Media converge: 0
+Media resultados: 53.37034052135947
+---------------------------------------------
+Execucao: 20
+Iteracoes: 500
+Particulas: 10
+w: 0.5
+Media converge: 0
+Media resultados: 50.704612753147394
+---------------------------------------------
+Execucao: 21
+Iteracoes: 500
+Particulas: 10
+w: 0.75
+Media converge: 0
+Media resultados: 50.20747751186779
+---------------------------------------------
+Execucao: 22
+Iteracoes: 500
+Particulas: 25
+w: 0.25
+Media converge: 6
+Media resultados: 0.4893365712157087
+---------------------------------------------
+Execucao: 23
+Iteracoes: 500
+Particulas: 25
+w: 0.5
+Media converge: 24
+Media resultados: 1.3008310799891249e-23
+---------------------------------------------
+Execucao: 24
+Iteracoes: 500
+Particulas: 25
+w: 0.75
+Media converge: 0
+Media resultados: 0.7862944717765873
+---------------------------------------------
+Execucao: 25
+Iteracoes: 500
+Particulas: 50
+w: 0.25
+Media converge: 100
+Media resultados: 0.0
+---------------------------------------------
+Execucao: 26
+Iteracoes: 500
+Particulas: 50
+w: 0.5
+Media converge: 100
+Media resultados: 0.0
+---------------------------------------------
+Execucao: 27
+Iteracoes: 500
+Particulas: 50
+w: 0.75
+Media converge: 0
+Media resultados: 3.4428204437211816e-17
